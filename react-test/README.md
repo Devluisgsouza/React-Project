@@ -1,1 +1,1 @@
-Estudando React
+Studying React
